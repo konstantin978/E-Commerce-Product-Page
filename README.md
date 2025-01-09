@@ -1,4 +1,4 @@
-Mega Market
+# Mega Market
 
 Mega Market is an e-commerce application that showcases products and allows users to add items to a shopping cart. This project demonstrates React, TypeScript, and localStorage usage.
 
@@ -26,12 +26,12 @@ cd mega-market
 
 Install dependencies:
 npm install
-# or if using yarn:
+or if using yarn:
 yarn install
 
 Start the development server:
 npm run dev
-# or with yarn:
+or with yarn:
 yarn run dev
 
 Open your browser and visit:
